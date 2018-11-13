@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: b35697dcb7a1f7f4d9fa19d51bde2302
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Roboto Mono
+  fontNames:
+  - Roboto Mono
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0f3c0d800af5c7543b48a4155bafe748, type: 3}
+  - {fileID: 12800000, guid: 37ce34683013e6642876bdce0e515f9a, type: 3}
+  - {fileID: 12800000, guid: 2037bcb8f1ff9a647aa6a6a1b7b909d2, type: 3}
+  - {fileID: 12800000, guid: a53d31498c564c94ba4cb995336908b8, type: 3}
+  - {fileID: 12800000, guid: a92776ec7d4efa6499f0d1ee981ce2a5, type: 3}
+  - {fileID: 12800000, guid: 9197c57ded786ea48a4e8c9fef8e9886, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
